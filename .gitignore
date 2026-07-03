@@ -76,3 +76,10 @@ crashlytics-build.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+<<<<<<< HEAD
+=======
+
+#Photon Unity Networking
+/Assets/Photon/
+/Assets/Photon.meta
+>>>>>>> 7fa17b0 (Initial commit of Phase 3 files)
